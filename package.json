@@ -1,0 +1,16 @@
+{
+  "name": "hexo-filter-img-url-changer",
+  "version": "1.0.0",
+  "description": "a filter of hexo which can change some local file's  string to another string when you deploy like img url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "img",
+    "url"
+  ],
+  "author": "pengber",
+  "license": "ISC"
+}
