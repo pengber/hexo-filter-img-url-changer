@@ -35,7 +35,7 @@ typora设置: 偏好设置=>图像=>插入图片时=>**复制到指定路径**=>
 
 # 使用方法
 
-`npm install hexo-filter-img-url-change –save`
+`npm install hexo-filter-img-url-change –-save`
 
 添加配置
 
