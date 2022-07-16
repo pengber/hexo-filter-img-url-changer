@@ -49,7 +49,13 @@ uml_changer:
 
 也可以将本插件的 `index.js` 文件夹放到静态博客本地路径的根目录下的 `scripts`文件夹后即可再添加配置也可以.
 
+# 其他
 
+如果是自己编写`hexo`插件的话, 写出的代码可以直接放在`根目录\scripts`下生效, 而如果要在`node_modules`文件夹下的编写`hexo-`开头的文件夹下编写代码的话, 编写完成后还需要在根目录的`package.js`的`dependencies`下添加**文件夹名和版本号**
+
+```yml
+    "hexo-filter-img-url-changer":"1.0.0"
+```
 
 ## 参考
 
