@@ -51,3 +51,10 @@ uml_changer:
 
 
 
+## 参考
+
+[hexo 插件及其发布](https://hexo.io/zh-cn/docs/plugins.html)
+
+[hexo 搭建静态博客－高级篇（插件编写）](https://frapples.github.io/articles/2016-09-21-6d0.html)
+
+[hexo-article-emoji](https://github.com/frapples/hexo-article-emoji/blob/master/readme_cn.md)
